@@ -26,7 +26,7 @@ import urllib.request
 
 SITE_URL = "https://carejobs.now"
 API_URL = SITE_URL + "/api/mcp"
-TIMEOUT_SECONDS = 8
+TIMEOUT_SECONDS = 25
 MAX_JOBS = 10
 MAX_QUERY_CHARS = 200
 MAX_BODY_BYTES = 2000000

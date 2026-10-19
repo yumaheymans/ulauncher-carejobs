@@ -33,7 +33,7 @@ Each result shows `Title at Employer`, then the pay (when there is one), the loc
 
 Enter opens the job. Alt+Enter opens the employer's page on CareJobs.Now. The last result, "See all N jobs", opens the same search on the CareJobs.Now board with filters.
 
-If CareJobs.Now cannot be reached within 8 seconds, you get one result that opens the search in your browser instead. The extension never crashes Ulauncher.
+If CareJobs.Now cannot be reached within 25 seconds, you get one result that opens the search in your browser instead. The extension never crashes Ulauncher.
 
 You can change the keyword (`cj`) in the extension's preferences.
 
