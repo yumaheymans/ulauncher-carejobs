@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "CareJobs.Now",
+  "description": "Search US healthcare jobs with the pay employers post (nurses, CNAs, techs, therapists)",
+  "developer_name": "CareJobs.Now",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.5
+  },
+  "preferences": [
+    {
+      "id": "carejobs_kw",
+      "type": "keyword",
+      "name": "CareJobs.Now",
+      "description": "Search US healthcare jobs",
+      "default_value": "cj"
+    }
+  ]
+}
